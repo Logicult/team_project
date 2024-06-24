@@ -232,7 +232,7 @@ well in predicting Category 1, not Categories 2, 3 and 4.
 
 [Part C -- Pramod Sharma](https://youtu.be/oYyeUJzEspg)
 
-Part D -- Jingyi Lu
+[Part D -- Jingyi Lu](https://youtu.be/op9ruYbYuxQ)
 <BR>
 <BR>
 
