@@ -1,3 +1,4 @@
+# Team Project - Group 23 
 # Analysis of variables in dataset using Linear Regression techniques
 
 ## Project Overview
@@ -20,7 +21,7 @@ By utilizing various statistical techniques and regression analysis, we
 tried to understand the relationships between customer demographics,
 purchasing behaviors, and the methods of payment.
 
-## Project Team
+## Project Team Member
 - George Zuo
 - Panpan Wang
 - Pramod Sharma
