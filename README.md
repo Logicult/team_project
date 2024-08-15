@@ -5,7 +5,7 @@
 - Pramod Sharma
 - Jingyi Lu
 
-## Team Project - 1 - Regression Analysis [README Link](\README_Team_Project_1.md)
+## Team Project - 1 - Regression Analysis [README Link](./README_Team_Project_1.md)
 
 ## Team Project - 2 - Data Visualization 
 
